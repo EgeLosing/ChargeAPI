@@ -1,0 +1,6 @@
+C:\Users\Ege\source\repos\SmartCharge_API\SmartCharge_API\bin\Debug\SmartCharge_API.dll
+C:\Users\Ege\source\repos\SmartCharge_API\SmartCharge_API\bin\Debug\SmartCharge_API.pdb
+C:\Users\Ege\source\repos\SmartCharge_API\SmartCharge_API\obj\Debug\SmartCharge_API.csproj.AssemblyReference.cache
+C:\Users\Ege\source\repos\SmartCharge_API\SmartCharge_API\obj\Debug\SmartCharge_API.csproj.CoreCompileInputs.cache
+C:\Users\Ege\source\repos\SmartCharge_API\SmartCharge_API\obj\Debug\SmartCharge_API.dll
+C:\Users\Ege\source\repos\SmartCharge_API\SmartCharge_API\obj\Debug\SmartCharge_API.pdb
